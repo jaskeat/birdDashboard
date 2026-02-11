@@ -1,0 +1,273 @@
+,speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lon,obsValid,obsReviewed,locationPrivate,subId,exoticCategory,locRowCount
+0,yebwar3,Yellow-browed Warbler,Phylloscopus inornatus,L2029415,Chinese University of Hong Kong 香港中文大學,2026-02-09 13:36:00,1.0,22.4143611,114.2100906,True,False,False,S299061587,,600
+1,rewbul,Red-whiskered Bulbul,Pycnonotus jocosus,L2029415,Chinese University of Hong Kong 香港中文大學,2026-02-09 13:36:00,5.0,22.4143611,114.2100906,True,False,False,S299061587,,600
+2,spodov,Spotted Dove,Spilopelia chinensis,L2029415,Chinese University of Hong Kong 香港中文大學,2026-02-09 13:36:00,1.0,22.4143611,114.2100906,True,False,False,S299061587,,600
+3,comtai1,Common Tailorbird,Orthotomus sutorius,L2029415,Chinese University of Hong Kong 香港中文大學,2026-02-09 13:36:00,1.0,22.4143611,114.2100906,True,False,False,S299061587,,600
+4,magrob,Oriental Magpie-Robin,Copsychus saularis,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,2.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+5,graher1,Gray Heron,Ardea cinerea,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,3.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+6,blakit1,Black Kite,Milvus migrans,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,2.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+7,labcro1,Large-billed Crow,Corvus macrorhynchos,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+8,greegr,Great Egret,Ardea alba,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,4.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+9,palwar5,Pallas's Leaf Warbler,Phylloscopus proregulus,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+10,rucbab1,Rufous-capped Babbler,Cyanoderma ruficeps,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,N,665
+11,scbflo1,Scarlet-backed Flowerpecker,Dicaeum cruentatum,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+12,bkcsta1,Black-collared Starling,Gracupica nigricollis,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,2.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+13,piekin1,Pied Kingfisher,Ceryle rudis,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+14,maslau1,Masked Laughingthrush,Pterorhinus perspicillatus,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,,22.5224587,114.2082238,True,False,False,S299058574,,665
+15,cremyn,Crested Myna,Acridotheres cristatellus,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+16,orimag1,Oriental Magpie,Pica serica,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+17,rbbmag,Red-billed Blue-Magpie,Urocissa erythroryncha,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,2.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+18,litegr,Little Egret,Egretta garzetta,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,3.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+19,yebpri1,Yellow-bellied Prinia,Prinia flaviventris,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,1.0,22.5224587,114.2082238,True,False,False,S299058574,,665
+20,livbul1,Light-vented Bulbul,Pycnonotus sinensis,L3801616,Nam Chung 南涌,2026-02-09 11:10:00,,22.5224587,114.2082238,True,False,False,S299058574,,665
+21,strher1,Little Heron,Butorides atricapilla,L58263536,"Lantau Trail Sec 5, Lantau Island HK-New Territories 22.23646, 113.87057",2026-02-09 11:03:00,1.0,22.236455,113.870568,True,False,True,S299052312,,600
+22,comgre,Common Greenshank,Tringa nebularia,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+23,categr2,Eastern Cattle-Egret,Ardea coromanda,L1772531,Long Valley 塱原,2026-02-09 10:37:00,20.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+24,rocpig,Rock Pigeon,Columba livia,L1772531,Long Valley 塱原,2026-02-09 10:37:00,10.0,22.5088303,114.113338,True,False,False,S299058290,N,1365
+25,chpher1,Chinese Pond-Heron,Ardeola bacchus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+26,asikoe2,Asian Koel,Eudynamys scolopaceus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+27,grecor,Great Cormorant,Phalacrocorax carbo,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+28,woosan,Wood Sandpiper,Tringa glareola,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+29,gnwtea,Green-winged Teal,Anas crecca,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+30,whrmun,White-rumped Munia,Lonchura striata,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+31,whiwag,White Wagtail,Motacilla alba,L1772531,Long Valley 塱原,2026-02-09 10:37:00,6.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+32,houswi1,House Swift,Apus nipalensis,L1772531,Long Valley 塱原,2026-02-09 10:37:00,,22.5088303,114.113338,True,False,False,S299058290,,1365
+33,norsho,Northern Shoveler,Spatula clypeata,L1772531,Long Valley 塱原,2026-02-09 10:37:00,20.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+34,eutspa,Eurasian Tree Sparrow,Passer montanus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,20.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+35,nutman,Scaly-breasted Munia,Lonchura punctulata,L1772531,Long Valley 塱原,2026-02-09 10:37:00,20.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+36,integr1,Medium Egret,Ardea intermedia,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+37,eaywag,Eastern Yellow Wagtail,Motacilla tschutschensis,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+38,bkwsti,Black-winged Stilt,Himantopus himantopus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,,22.5088303,114.113338,True,False,False,S299058290,,1365
+39,pieavo1,Pied Avocet,Recurvirostra avosetta,L1772531,Long Valley 塱原,2026-02-09 10:37:00,20.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+40,stonec7,Amur Stonechat,Saxicola stejnegeri,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+41,duswar,Dusky Warbler,Phylloscopus fuscatus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+42,daured1,Daurian Redstart,Phoenicurus auroreus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+43,plapri1,Plain Prinia,Prinia inornata,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+44,commoo3,Eurasian Moorhen,Gallinula chloropus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,2.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+45,cintit13,Asian Tit,Parus cinereus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+46,colcro1,Collared Crow,Corvus torquatus,L1772531,Long Valley 塱原,2026-02-09 10:37:00,1.0,22.5088303,114.113338,True,False,False,S299058290,,1365
+47,alepar2,Alexandrine Parakeet,Psittacula eupatria,L1435080,Kowloon Park 九龍公園,2026-02-09 10:28:00,3.0,22.3003965,114.1701699,True,False,False,S299054276,N,600
+48,gybthr1,Gray-backed Thrush,Turdus hortulorum,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,1.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+49,bkbplo,Black-bellied Plover,Pluvialis squatarola,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,1.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+50,tufduc,Tufted Duck,Aythya fuligula,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,51.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+51,swiwhe1,Swinhoe's White-eye,Zosterops simplex,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,11.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+52,blfspo1,Black-faced Spoonbill,Platalea minor,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,16.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+53,chibla1,Chinese Blackbird,Turdus mandarinus,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,2.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+54,comred1,Common Redshank,Tringa totanus,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,2.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+55,comsan,Common Sandpiper,Actitis hypoleucos,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,3.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+56,pagplo,Pacific Golden-Plover,Pluvialis fulva,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,1.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+57,eurwig,Eurasian Wigeon,Mareca penelope,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,6.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+58,norpin,Northern Pintail,Anas acuta,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,13.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+59,marsan,Marsh Sandpiper,Tringa stagnatilis,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,2.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+60,litgre1,Little Grebe,Tachybaptus ruficollis,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,1.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+61,lirplo,Little Ringed Plover,Thinornis dubius,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,4.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+62,grnsan,Green Sandpiper,Tringa ochropus,L2274752,Hong Kong Wetland Park 香港濕地公園,2026-02-09 10:16:00,1.0,22.4692126,114.0074665,True,False,False,S299060139,,600
+63,lotshr1,Long-tailed Shrike,Lanius schach,L21166829,Wang Tong,2026-02-09 10:12:00,1.0,22.2719996,113.9968854,True,False,True,S299048655,,600
+64,osprey,Osprey,Pandion haliaetus,L15793086,Central to Cheung Chau Ferry 中環至長洲渡輪,2026-02-09 10:00:00,1.0,22.2578036,114.0702312,True,False,False,S299051293,,600
+65,bcnher,Black-crowned Night Heron,Nycticorax nycticorax,L15793086,Central to Cheung Chau Ferry 中環至長洲渡輪,2026-02-09 10:00:00,1.0,22.2578036,114.0702312,True,False,False,S299051293,,600
+66,siemes1,Silver-eared Mesia,Leiothrix argentauris,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,3.0,22.4216319,114.0938117,True,False,False,S299055228,N,770
+67,cregos1,Crested Goshawk,Lophospiza trivirgata,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,2.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+68,crseag1,Crested Serpent-Eagle,Spilornis cheela,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+69,blwthr1,Blue Whistling-Thrush,Myophonus caeruleus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+70,spepic1,Speckled Piculet,Picumnus innominatus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+71,bkwcus1,Black-winged Cuckooshrike,Lalage melaschistos,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+72,grywag,Gray Wagtail,Motacilla cinerea,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+73,vefnut1,Velvet-fronted Nuthatch,Sitta frontalis,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,5.0,22.4216319,114.0938117,True,False,False,S299055228,N,770
+74,olbpip,Olive-backed Pipit,Anthus hodgsoni,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,6.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+75,eursis,Eurasian Siskin,Spinus spinus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,2.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+76,whbwat1,White-breasted Waterhen,Amaurornis phoenicurus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+77,fibflo1,Fire-breasted Flowerpecker,Dicaeum ignipectus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,2.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+78,fotsun1,Fork-tailed Sunbird,Aethopyga christinae,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+79,hacdro1,Hair-crested Drongo,Dicrurus hottentottus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,10.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+80,besra1,Besra,Tachyspiza virgata,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+81,gyhcaf1,Gray-headed Canary-Flycatcher,Culicicapa ceylonensis,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+82,yebgro1,Yellow-billed Grosbeak,Eophona migratoria,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,20.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+83,grecou1,Greater Coucal,Centropus sinensis,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+84,chebul1,Chestnut Bulbul,Hemixos castanonotus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,2.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+85,rutrob1,Rufous-tailed Robin,Larvivora sibilans,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+86,scamin1,Scarlet Minivet,Pericrocotus speciosus,L10169386,Tai Lam Country Park (Eco Garden),2026-02-09 09:15:00,1.0,22.4216319,114.0938117,True,False,False,S299055228,,770
+87,sbsbab3,Streak-breasted Scimitar-Babbler,Pomatorhinus ruficollis,L3058619,Victoria Peak Garden 山頂公園,2026-02-09 08:42:00,1.0,22.2739497,114.1439205,True,False,False,S299046787,N,600
+88,melthr,Chinese Hwamei,Garrulax canorus,L3058619,Victoria Peak Garden 山頂公園,2026-02-09 08:42:00,1.0,22.2739497,114.1439205,True,False,False,S299046787,,600
+89,orblea1,Orange-bellied Leafbird,Chloropsis hardwickii,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,2.0,22.4259749,114.1810155,True,False,False,S299058641,,630
+90,gycmin1,Gray-chinned Minivet,Pericrocotus solaris,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,24.0,22.4259749,114.1810155,True,False,False,S299058641,,630
+91,grebar1,Great Barbet,Psilopogon virens,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,3.0,22.4259749,114.1810155,True,False,False,S299058641,,630
+92,moutai2,Mountain Tailorbird,Phyllergates cucullatus,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,2.0,22.4259749,114.1810155,True,False,False,S299058641,,630
+93,chibar1,Chinese Barbet,Psilopogon faber,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,1.0,22.4259749,114.1810155,True,False,False,S299058641,,630
+94,yectit1,Yellow-cheeked Tit,Machlolophus spilonotus,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,2.0,22.4259749,114.1810155,True,False,False,S299058641,N,630
+95,moubul2,Mountain Bulbul,Ixos mcclellandii,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-09 08:23:00,3.0,22.4259749,114.1810155,True,False,False,S299058641,,630
+96,yeccoc1,Yellow-crested Cockatoo,Cacatua sulphurea,L28553218,Hollywood Road Park,2026-02-09 08:17:00,1.0,22.284783,114.1493803,True,False,True,S299037956,N,600
+97,commyn,Common Myna,Acridotheres tristis,L3639949,Pui O 貝澳,2026-02-09 08:14:00,,22.2404203,113.9769423,True,False,False,S299046715,N,600
+98,taifly1,Taiga Flycatcher,Ficedula albicilla,L3639949,Pui O 貝澳,2026-02-09 08:14:00,1.0,22.2404203,113.9769423,True,False,False,S299046715,,600
+99,pacreh1,Pacific Reef-Heron,Egretta sacra,L15793086,Central to Cheung Chau Ferry 中環至長洲渡輪,2026-02-09 07:42:00,1.0,22.2578036,114.0702312,True,False,False,S299040494,,600
+100,ashdro1,Ashy Drongo,Dicrurus leucophaeus,L43231680,Caldecott Road 郝德傑道,2026-02-09 07:00:00,2.0,22.3440766,114.1488014,True,False,False,S299045357,,600
+101,whtkin2,White-throated Kingfisher,Halcyon smyrnensis,L58211898,Hoi Shum Park 海心公園,2026-02-08 18:14:00,1.0,22.3151779,114.1918836,True,False,True,S298809557,,600
+102,cosowl1,Collared Scops-Owl,Otus lettia,L4925150,Wong Lung Hang trail,2026-02-08 17:57:00,1.0,22.2622507,113.9544654,True,False,False,S298821358,,600
+103,pywbab1,Pygmy Cupwing,Pnoepyga pusilla,L4925150,Wong Lung Hang trail,2026-02-08 17:57:00,1.0,22.2622507,113.9544654,True,False,False,S298821358,,600
+104,perfal,Peregrine Falcon,Falco peregrinus,L1987546,Sha Tin Park 沙田公園,2026-02-08 17:44:00,1.0,22.3783729,114.1882682,True,False,False,S298812589,,600
+105,burthr,Blue Rock-Thrush,Monticola solitarius,L43231680,Caldecott Road 郝德傑道,2026-02-08 17:15:00,1.0,22.3440766,114.1488014,True,False,False,S298803448,,600
+106,japspa1,Japanese Sparrowhawk,Tachyspiza gularis,L10998282,Lam Tsuen--She Shan,2026-02-08 17:00:00,1.0,22.4512065,114.1432297,True,False,True,S298803746,,600
+107,grewar2,Two-barred Warbler,Phylloscopus plumbeitarsus,L10998282,Lam Tsuen--She Shan,2026-02-08 17:00:00,1.0,22.4512065,114.1432297,True,False,True,S298803746,,600
+108,sohbul1,Sooty-headed Bulbul,Pycnonotus aurigaster,L10998282,Lam Tsuen--She Shan,2026-02-08 17:00:00,1.0,22.4512065,114.1432297,True,False,True,S298803746,,600
+109,baywoo1,Bay Woodpecker,Blythipicus pyrrhotis,L10998282,Lam Tsuen--She Shan,2026-02-08 17:00:00,1.0,22.4512065,114.1432297,True,False,True,S298803746,,600
+110,comkin1,Common Kingfisher,Alcedo atthis,L6713217,Tsing Yi Park 青衣公園,2026-02-08 16:00:00,1.0,22.3558111,114.1053343,True,False,False,S299047920,,600
+111,asbfly,Asian Brown Flycatcher,Muscicapa dauurica,L6713217,Tsing Yi Park 青衣公園,2026-02-08 16:00:00,1.0,22.3558111,114.1053343,True,False,False,S299047920,,600
+112,whssta2,White-shouldered Starling,Sturnia sinensis,L4846143,Lai Chi Kok Park 荔枝角公園,2026-02-08 15:58:00,6.0,22.3349525,114.1381109,True,False,False,S298785876,,600
+113,boneag2,Bonelli's Eagle,Aquila fasciata,L3624105,Hok Tau 鶴藪,2026-02-08 15:54:00,2.0,22.4922328,114.180876,True,True,False,S298785156,,600
+114,blwmin1,Blue-winged Minla,Actinodura cyanouroptera,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-08 15:45:00,2.0,22.4259749,114.1810155,True,False,False,S298815815,N,630
+115,whbyuh1,White-bellied Erpornis,Erpornis zantholeuca,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-08 15:45:00,2.0,22.4259749,114.1810155,True,False,False,S298815815,,630
+116,verfly4,Verditer Flycatcher,Eumyias thalassinus,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-08 15:45:00,1.0,22.4259749,114.1810155,True,False,False,S298815815,,630
+117,blabul1,Black Bulbul,Hypsipetes leucocephalus,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-08 15:45:00,3.0,22.4259749,114.1810155,True,False,False,S298815815,,630
+118,sllcra1,Slaty-legged Crake,Rallina eurizonoides,L58210151,九龍灣體育館 Kowloon Bay Sports Centre,2026-02-08 15:33:00,1.0,22.328345,114.211965,True,True,True,S298801238,,600
+119,eurwry,Eurasian Wryneck,Jynx torquilla,L58210151,九龍灣體育館 Kowloon Bay Sports Centre,2026-02-08 15:33:00,1.0,22.328345,114.211965,True,False,True,S298801238,,600
+120,brnshr,Brown Shrike,Lanius cristatus,L58210151,九龍灣體育館 Kowloon Bay Sports Centre,2026-02-08 15:33:00,1.0,22.328345,114.211965,True,False,True,S298801238,,600
+121,rebsta1,Red-billed Starling,Spodiopsar sericeus,L55369845,"Shau Kei Wan Typhoon Shelter, Coastal Defense Museum",2026-02-08 14:56:00,21.0,22.282833,114.230871,True,False,True,S299025807,,600
+122,wbseag1,White-bellied Sea-Eagle,Icthyophaga leucogaster,L55369845,"Shau Kei Wan Typhoon Shelter, Coastal Defense Museum",2026-02-08 14:56:00,1.0,22.282833,114.230871,True,False,True,S299025807,,600
+123,comsni,Common Snipe,Gallinago gallinago,L1772531,Long Valley 塱原,2026-02-08 14:39:00,2.0,22.5088303,114.113338,True,False,False,S298797011,,1365
+124,whrsha,White-rumped Shama,Copsychus malabaricus,L2740358,King's Park Recreation Ground 京士柏公園,2026-02-08 14:30:00,1.0,22.3125294,114.1733256,True,False,False,S298844900,P,600
+125,japthr1,Japanese Thrush,Turdus cardis,L2740358,King's Park Recreation Ground 京士柏公園,2026-02-08 14:30:00,1.0,22.3125294,114.1733256,True,False,False,S298844900,,600
+126,fujnil1,Fujian Niltava,Niltava davidi,L2740358,King's Park Recreation Ground 京士柏公園,2026-02-08 14:30:00,1.0,22.3125294,114.1733256,True,False,False,S298844900,,600
+127,placuc1,Plaintive Cuckoo,Cacomantis merulinus,L2740358,King's Park Recreation Ground 京士柏公園,2026-02-08 14:30:00,1.0,22.3125294,114.1733256,True,False,False,S298844900,,600
+128,eurspo1,Eurasian Spoonbill,Platalea leucorodia,L56270025,Mai Po Nature Reserve Pond 16/17,2026-02-08 14:07:00,1.0,22.487528,114.036671,True,False,True,S298777837,,600
+129,eurcur,Eurasian Curlew,Numenius arquata,L56270025,Mai Po Nature Reserve Pond 16/17,2026-02-08 14:07:00,200.0,22.487528,114.036671,True,False,True,S298777837,,600
+130,batgod,Bar-tailed Godwit,Limosa lapponica,L56270025,Mai Po Nature Reserve Pond 16/17,2026-02-08 14:07:00,7.0,22.487528,114.036671,True,False,True,S298777837,,600
+131,faecur,Far Eastern Curlew,Numenius madagascariensis,L56270025,Mai Po Nature Reserve Pond 16/17,2026-02-08 14:07:00,1.0,22.487528,114.036671,True,False,True,S298777837,,600
+132,norlap,Northern Lapwing,Vanellus vanellus,L56270025,Mai Po Nature Reserve Pond 16/17,2026-02-08 14:07:00,1.0,22.487528,114.036671,True,False,True,S298777837,,600
+133,emedov2,Asian Emerald Dove,Chalcophaps indica,L4072111,Shing Mun Reservoir 城門水塘,2026-02-08 13:47:00,1.0,22.3844444,114.1443229,True,False,False,S299060158,,600
+134,eucdov,Eurasian Collared-Dove,Streptopelia decaocto,L7394891,Tai Sang Wai 大生圍,2026-02-08 13:36:00,1.0,22.4708045,114.0427852,True,False,False,S298786075,N,600
+135,retpip,Red-throated Pipit,Anthus cervinus,L7394891,Tai Sang Wai 大生圍,2026-02-08 13:36:00,1.0,22.4708045,114.0427852,True,False,False,S298786075,,600
+136,bladro1,Black Drongo,Dicrurus macrocercus,L7394891,Tai Sang Wai 大生圍,2026-02-08 13:36:00,,22.4708045,114.0427852,True,False,False,S298786075,,600
+137,combuz6,Eastern Buzzard,Buteo japonicus,L7394891,Tai Sang Wai 大生圍,2026-02-08 13:36:00,1.0,22.4708045,114.0427852,True,False,False,S298786075,,600
+138,blueth,Bluethroat,Luscinia svecica,L7394891,Tai Sang Wai 大生圍,2026-02-08 13:36:00,1.0,22.4708045,114.0427852,True,False,False,S298786075,,600
+139,zitcis1,Zitting Cisticola,Cisticola juncidis,L7394891,Tai Sang Wai 大生圍,2026-02-08 13:36:00,1.0,22.4708045,114.0427852,True,False,False,S298786075,,600
+140,falduc,Falcated Duck,Mareca falcata,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 13:32:00,1.0,22.4941803,114.0365517,True,False,False,S298775148,,1610
+141,purher1,Purple Heron,Ardea purpurea,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 13:32:00,3.0,22.4941803,114.0365517,True,False,False,S298775148,,1610
+142,gycful5,Huet's Fulvetta,Alcippe hueti,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-08 13:07:00,1.0,22.4259749,114.1810155,True,False,False,S298812940,N,630
+143,comros,Common Rosefinch,Carpodacus erythrinus,L17731518,Wu Kau Tang 烏蛟騰,2026-02-08 12:39:00,4.0,22.5058964,114.2436075,True,False,False,S298805216,,600
+144,origre,Oriental Greenfinch,Chloris sinica,L17731518,Wu Kau Tang 烏蛟騰,2026-02-08 12:39:00,5.0,22.5058964,114.2436075,True,False,False,S298805216,,600
+145,grytre1,Gray Treepie,Dendrocitta formosae,L17731518,Wu Kau Tang 烏蛟騰,2026-02-08 12:39:00,2.0,22.5058964,114.2436075,True,False,False,S298805216,,600
+146,asistu1,Asian Stubtail,Urosphena squameiceps,L17731518,Wu Kau Tang 烏蛟騰,2026-02-08 12:39:00,1.0,22.5058964,114.2436075,True,False,False,S298805216,,600
+147,pllwar1,Pale-legged Leaf Warbler,Phylloscopus tenellipes,L17731518,Wu Kau Tang 烏蛟騰,2026-02-08 12:39:00,1.0,22.5058964,114.2436075,True,False,False,S298805216,,600
+148,blnmon1,Black-naped Monarch,Hypothymis azurea,L12361152,Tung Lung Chau 東龍洲,2026-02-08 12:34:00,1.0,22.2544142,114.2915336,True,False,False,S298776316,,600
+149,bktgod,Black-tailed Godwit,Limosa limosa,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-08 12:24:00,10.0,22.494547,114.0284675,True,False,False,S298774504,,600
+150,caster1,Caspian Tern,Hydroprogne caspia,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-08 12:24:00,1.0,22.494547,114.0284675,True,False,False,S298774504,,600
+151,saugul2,Saunders's Gull,Saundersilarus saundersi,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-08 12:24:00,20.0,22.494547,114.0284675,True,False,False,S298774504,,600
+152,grekno,Great Knot,Calidris tenuirostris,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-08 12:24:00,10.0,22.494547,114.0284675,True,False,False,S298774504,,600
+153,redkno,Red Knot,Calidris canutus,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-08 12:24:00,1.0,22.494547,114.0284675,True,False,False,S298774504,,600
+154,bkhgul,Black-headed Gull,Chroicocephalus ridibundus,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-08 12:24:00,,22.494547,114.0284675,True,False,False,S298774504,,600
+155,casgul4,Mongolian Gull,Larus mongolicus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:06:00,1.0,22.4941803,114.0365517,True,False,False,S298805277,,1610
+156,kenplo1,Kentish Plover,Anarhynchus alexandrinus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,2.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+157,gubter2,Gull-billed Tern,Gelochelidon nilotica,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,1.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+158,whcsta1,White-cheeked Starling,Spodiopsar cineraceus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,10.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+159,whimbr5,Eurasian Whimbrel,Numenius phaeopus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,2.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+160,easmah1,Eastern Marsh Harrier,Circus spilonotus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,2.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+161,barswa,Barn Swallow,Hirundo rustica,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,70.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+162,lbbgul,Lesser Black-backed Gull,Larus fuscus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,25.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+163,blckin1,Black-capped Kingfisher,Halcyon pileata,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,1.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+164,azwmag2,Azure-winged Magpie,Cyanopica cyanus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,6.0,22.4941803,114.0365517,True,False,False,S298871958,N,1610
+165,bkfbun1,Black-faced Bunting,Emberiza spodocephala,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,2.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+166,grseag1,Greater Spotted Eagle,Clanga clanga,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,1.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+167,dunlin,Dunlin,Calidris alpina,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 12:00:00,20.0,22.4941803,114.0365517,True,False,False,S298871958,,1610
+168,recdov1,Red Collared-Dove,Streptopelia tranquebarica,L1284577,San Tin 新田,2026-02-08 11:33:00,1.0,22.5028039,114.0724182,True,False,False,S298913062,,600
+169,tersan,Terek Sandpiper,Xenus cinereus,L58202014,"1 Nam Sang Wai Road, New Territories, HK (22.456, 114.047)",2026-02-08 11:21:00,,22.4556805,114.0469899,True,False,True,S298763413,,600
+170,manbuw1,Manchurian Bush Warbler,Horornis canturians,L3801616,Nam Chung 南涌,2026-02-08 10:35:00,1.0,22.5224587,114.2082238,True,False,False,S298767329,,665
+171,litbun,Little Bunting,Emberiza pusilla,L3801616,Nam Chung 南涌,2026-02-08 10:35:00,1.0,22.5224587,114.2082238,True,False,False,S298767329,,665
+172,bbrwar1,Black-browed Reed Warbler,Acrocephalus bistrigiceps,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:31:00,1.0,22.4941803,114.0365517,True,False,False,S298772312,,1610
+173,impeag1,Imperial Eagle,Aquila heliaca,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:31:00,1.0,22.4941803,114.0365517,True,False,False,S298772312,,1610
+174,sibrub,Siberian Rubythroat,Calliope calliope,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:31:00,2.0,22.4941803,114.0365517,True,False,False,S298772312,,1610
+175,spored,Spotted Redshank,Tringa erythropus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:31:00,1.0,22.4941803,114.0365517,True,False,False,S298772312,,1610
+176,yefcan,Yellow-fronted Canary,Crithagra mozambica,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:31:00,1.0,22.4941803,114.0365517,True,False,False,S298772312,P,1610
+177,gnlthr,Greater Necklaced Laughingthrush,Pterorhinus pectoralis,L58204904,Nam Long Shan,2026-02-08 10:30:00,2.0,22.240828,114.16969,True,False,True,S298773692,N,600
+178,gargan,Garganey,Spatula querquedula,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:15:00,,22.4941803,114.0365517,True,False,False,S298804210,,1610
+179,piehar1,Pied Harrier,Circus melanoleucos,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 10:15:00,1.0,22.4941803,114.0365517,True,False,False,S298804210,,1610
+180,grpsni1,Greater Painted-Snipe,Rostratula benghalensis,L1772531,Long Valley 塱原,2026-02-08 09:52:00,1.0,22.5088303,114.113338,True,False,False,S298781718,,1365
+181,asbowl1,Asian Barred Owlet,Glaucidium cuculoides,L1772531,Long Valley 塱原,2026-02-08 09:52:00,1.0,22.5088303,114.113338,True,False,False,S298781718,,1365
+182,ricpip1,Richard's Pipit,Anthus richardi,L1772531,Long Valley 塱原,2026-02-08 09:52:00,1.0,22.5088303,114.113338,True,False,False,S298781718,,1365
+183,harlew1,Hartert's Leaf Warbler,Phylloscopus goodsoni,L4072111,Shing Mun Reservoir 城門水塘,2026-02-08 08:56:00,1.0,22.3844444,114.1443229,True,False,False,S298772407,,600
+184,eacwar1,Eastern Crowned Warbler,Phylloscopus coronatus,L4072111,Shing Mun Reservoir 城門水塘,2026-02-08 08:56:00,2.0,22.3844444,114.1443229,True,False,False,S298772407,,600
+185,hibfly1,Hill Blue Flycatcher,Cyornis whitei,L4921483,Pak Sha O 白沙澳,2026-02-08 08:30:00,1.0,22.4486741,114.3193316,True,True,False,S298804116,,600
+186,pagwar1,Pallas's Grasshopper Warbler,Helopsaltes certhiola,L3624105,Hok Tau 鶴藪,2026-02-08 08:13:00,1.0,22.4922328,114.180876,True,False,False,S298810243,,600
+187,yebmag1,Indochinese Green-Magpie,Cissa hypoleuca,L3624105,Hok Tau 鶴藪,2026-02-08 08:13:00,1.0,22.4922328,114.180876,True,False,False,S298810243,P,600
+188,bacdov1,Barred Cuckoo-Dove,Macropygia unchall,L4921483,Pak Sha O 白沙澳,2026-02-08 08:09:00,1.0,22.4486741,114.3193316,True,False,False,S298777996,,600
+189,blnori1,Black-naped Oriole,Oriolus chinensis,L4921483,Pak Sha O 白沙澳,2026-02-08 08:09:00,1.0,22.4486741,114.3193316,True,False,False,S298777996,,600
+190,spbduc,Eastern Spot-billed Duck,Anas zonorhyncha,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-08 08:07:00,2.0,22.4941803,114.0365517,True,False,False,S298774481,,1610
+191,eurkes,Eurasian Kestrel,Falco tinnunculus,L1772531,Long Valley 塱原,2026-02-07 16:58:00,1.0,22.5088303,114.113338,True,False,False,S298550756,,1365
+192,chebun2,Chestnut-eared Bunting,Emberiza fucata,L1772531,Long Valley 塱原,2026-02-07 16:58:00,1.0,22.5088303,114.113338,True,False,False,S298550756,,1365
+193,ortdov,Oriental Turtle-Dove,Streptopelia orientalis,L1284577,San Tin 新田,2026-02-07 15:58:00,1.0,22.5028039,114.0724182,True,False,False,S298550728,,600
+194,whvmyn1,Great Myna,Acridotheres grandis,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 15:44:00,5.0,22.4941803,114.0365517,True,False,False,S298765616,P,1610
+195,mallar3,Mallard,Anas platyrhynchos,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 15:44:00,2.0,22.4941803,114.0365517,True,False,False,S298765616,,1610
+196,oristo1,Oriental Stork,Ciconia boyciana,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 15:44:00,5.0,22.4941803,114.0365517,True,False,False,S298765616,,1610
+197,sibpip1,Siberian Pipit,Anthus japonicus,L16776841,Tai Po Tin 大埔田,2026-02-07 15:05:00,2.0,22.5272981,114.1532183,True,False,False,S298532529,,600
+198,gadwal,Gadwall,Mareca strepera,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:49:00,1.0,22.4941803,114.0365517,True,False,False,S298760841,,1610
+199,refblu1,Red-flanked Bluetail,Tarsiger cyanurus,L3605824,"Pat Heung Catchwater, Tai Lam",2026-02-07 14:35:00,1.0,22.4159798,114.0828145,True,False,False,S298539767,,600
+200,cfweye1,Chestnut-flanked White-eye,Zosterops erythropleurus,L3605824,"Pat Heung Catchwater, Tai Lam",2026-02-07 14:35:00,1.0,22.4159798,114.0828145,True,False,False,S298539767,,600
+201,chptit1,Chinese Penduline-Tit,Remiz consobrinus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:25:00,1.0,22.4941803,114.0365517,True,False,False,S298604655,,1610
+202,hoopoe,Common Hoopoe,Upupa epops,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:25:00,1.0,22.4941803,114.0365517,True,False,False,S298604655,,1610
+203,grsplo,Greater Sand-Plover,Anarhynchus leschenaultii,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:17:00,6.0,22.4941803,114.0365517,True,False,False,S298550868,,1610
+204,slbgul,Slaty-backed Gull,Larus schistisagus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:17:00,1.0,22.4941803,114.0365517,True,False,False,S298550868,,1610
+205,lessap1,Tibetan Sand-Plover,Anarhynchus atrifrons,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:17:00,4.0,22.4941803,114.0365517,True,False,False,S298550868,,1610
+206,lessap2,Siberian Sand-Plover,Anarhynchus mongolus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:17:00,1.0,22.4941803,114.0365517,True,False,False,S298550868,,1610
+207,rensti,Red-necked Stint,Calidris ruficollis,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:17:00,5.0,22.4941803,114.0365517,True,False,False,S298550868,,1610
+208,bklkit,Black-legged Kittiwake,Rissa tridactyla,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 14:17:00,1.0,22.4941803,114.0365517,True,True,False,S298550868,,1610
+209,mugfly,Mugimaki Flycatcher,Ficedula mugimaki,L42722108,Tuen Mun--West woodland 屯門--西邊林區,2026-02-07 13:21:00,1.0,22.3978877,113.9631081,True,False,True,S298546352,,600
+210,bktgul,Black-tailed Gull,Larus crassirostris,L1301819,Mai Po Nature Reserve--Southern Mudflat Hide 米埔自然護理區--泥灘南屋,2026-02-07 13:15:00,1.0,22.494547,114.0284675,True,False,False,S298765486,,600
+211,yebbun,Yellow-breasted Bunting,Emberiza aureola,L1772531,Long Valley 塱原,2026-02-07 12:00:00,1.0,22.5088303,114.113338,True,False,False,S298521442,,1365
+212,bfbwar1,Brownish-flanked Bush Warbler,Horornis fortipes,L10338111,Ngong Ping 昂坪,2026-02-07 11:52:00,1.0,22.2553666,113.9051304,True,False,False,S298595057,,600
+213,y00621,Eastern Red-rumped Swallow,Cecropis daurica,L10333401,Ma Tso Lung 馬草壟,2026-02-07 11:46:00,5.0,22.5304903,114.0906717,True,False,False,S298764547,,600
+214,temsti,Temminck's Stint,Calidris temminckii,L10333401,Ma Tso Lung 馬草壟,2026-02-07 11:46:00,2.0,22.5304903,114.0906717,True,False,False,S298764547,,600
+215,lescou1,Lesser Coucal,Centropus bengalensis,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 11:43:00,1.0,22.4941803,114.0365517,True,False,False,S298580924,,1610
+216,grcgre1,Great Crested Grebe,Podiceps cristatus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 11:43:00,4.0,22.4941803,114.0365517,True,False,False,S298580924,,1610
+217,smanil1,Small Niltava,Niltava macgrigoriae,L17731518,Wu Kau Tang 烏蛟騰,2026-02-07 11:15:00,1.0,22.5058964,114.2436075,True,False,False,S298543548,,600
+218,brakit1,Brahminy Kite,Haliastur indus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 11:01:00,1.0,22.4941803,114.0365517,True,True,False,S298528922,,1610
+219,eurcoo,Eurasian Coot,Fulica atra,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-07 11:01:00,,22.4941803,114.0365517,True,False,False,S298528922,,1610
+220,humwar1,Hume's Warbler,Phylloscopus humei,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-07 09:45:00,1.0,22.4259749,114.1810155,True,False,False,S298521452,,630
+221,reblei,Red-billed Leiothrix,Leiothrix lutea,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-07 08:27:00,2.0,22.4259749,114.1810155,True,False,False,S298550694,N,630
+222,lessho1,Lesser Shortwing,Brachypteryx leucophris,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-07 08:27:00,2.0,22.4259749,114.1810155,True,False,False,S298550694,,630
+223,indyuh1,Indochinese Yuhina,Staphida torqueola,L3586439,Ng Tung Chai 梧桐寨,2026-02-07 08:16:00,5.0,22.4336478,114.1298456,True,False,False,S298764430,,600
+224,whblau1,White-browed Laughingthrush,Pterorhinus sannio,L28660928,Lam Tsuen--Tin Liu Ha farmland,2026-02-07 07:31:00,2.0,22.4469568,114.1398349,True,False,True,S298764334,N,600
+225,grybus1,Gray Bushchat,Saxicola ferreus,L18837461,Tai O to Fan Lau,2026-02-07 07:00:00,1.0,22.240796,113.851554,True,False,True,S298511213,,600
+226,rubwar1,Russet Bush Warbler,Locustella mandelli,L13785834,Lung A Pai 龍丫排,2026-02-07 06:42:00,1.0,22.4452985,114.137354,True,False,False,S298764294,,600
+227,savnig1,Savanna Nightjar,Caprimulgus affinis,L58202562,"Po Kau Forest Walks Brown Walk, Tai Po Kau HK-New Territories (22.4295,114.1811)",2026-02-07 05:58:00,1.0,22.429476,114.181134,True,False,True,S298764489,,600
+228,brwowl1,Brown Wood-Owl,Strix leptogrammica,L10169386,Tai Lam Country Park (Eco Garden),2026-02-07 05:14:00,1.0,22.4216319,114.0938117,True,False,False,S298550682,,770
+229,relgul2,Relict Gull,Ichthyaetus relictus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-06 11:30:00,2.0,22.4941803,114.0365517,True,True,False,S298362634,,1610
+230,veggul1,Vega Gull,Larus vegae,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-06 11:30:00,1.0,22.4941803,114.0365517,True,False,False,S298362634,,1610
+231,cockat,Cockatiel,Nymphicus hollandicus,L1772531,Long Valley 塱原,2026-02-06 11:13:00,1.0,22.5088303,114.113338,True,True,False,S298327582,X,1365
+232,gohcis1,Golden-headed Cisticola,Cisticola exilis,L1284593,Mong Tseng and Sha Kiu 輞井及沙橋,2026-02-06 10:02:00,3.0,22.4873404,114.0040112,True,False,False,S298327630,,600
+233,norhar1,Hen Harrier,Circus cyaneus,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-06 09:03:00,1.0,22.4941803,114.0365517,True,True,False,S298352127,,1610
+234,rebfly,Red-breasted Flycatcher,Ficedula parva,L9886094,"Wan Poon Path, Tseung Kwan O",2026-02-05 14:42:00,1.0,22.308099,114.265695,True,False,False,S298179195,,600
+235,palthr1,Pale Thrush,Turdus pallidus,L20489670,Shek Pik-Fan Lau,2026-02-05 06:55:00,1.0,22.223242,113.880358,True,False,True,S298165812,,600
+236,forwag1,Forest Wagtail,Dendronanthus indicus,L20489670,Shek Pik-Fan Lau,2026-02-05 06:55:00,1.0,22.223242,113.880358,True,True,True,S298165812,,600
+237,reebun,Reed Bunting,Emberiza schoeniclus,L3903122,Mai Po NR--#8b Reedbed,2026-02-05 06:40:00,1.0,22.4940171,114.0403926,True,False,True,S298184875,,600
+238,pitsni,Pin-tailed Snipe,Gallinago stenura,L1772531,Long Valley 塱原,2026-02-04 17:32:00,1.0,22.5088303,114.113338,True,True,False,S298007536,,1365
+239,himacc1,Altai Accentor,Prunella himalayana,L6075586,Lantau Peak 鳳凰山,2026-02-04 15:30:00,1.0,22.2488259,113.9202189,True,True,False,S297999782,P,600
+240,gyhlap1,Gray-headed Lapwing,Vanellus cinereus,L1987596,Nam Sang Wai 南生圍,2026-02-04 14:57:00,6.0,22.4597397,114.0368414,True,False,False,S297988742,,600
+241,subwar3,Sulphur-breasted Warbler,Phylloscopus ricketti,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-02-04 09:29:00,1.0,22.4259749,114.1810155,True,False,False,S297985406,,630
+242,whiter2,Whiskered Tern,Chlidonias hybrida,L17089733,Lut Chau 甩洲,2026-02-04 08:27:00,1.0,22.4772415,114.0338206,True,False,False,S297975909,,600
+243,piebus1,Pied Bushchat,Saxicola caprata,L1772531,Long Valley 塱原,2026-02-03 14:35:00,1.0,22.5088303,114.113338,True,True,False,S297879075,X,1365
+244,hilmyn,Common Hill Myna,Gracula religiosa,L1772531,Long Valley 塱原,2026-02-03 14:34:00,1.0,22.5088303,114.113338,True,False,False,S297823424,X,1365
+245,orrwar1,Oriental Reed Warbler,Acrocephalus orientalis,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-03 09:19:00,1.0,22.4941803,114.0365517,True,False,False,S297954768,,1610
+246,comshe,Common Shelduck,Tadorna tadorna,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-03 09:19:00,1.0,22.4941803,114.0365517,True,True,False,S297954768,,1610
+247,orhthr1,Orange-headed Thrush,Geokichla citrina,L3686391,Tai Lam Country Park 大欖郊野公園,2026-02-02 12:47:00,1.0,22.3992845,114.0916014,True,False,False,S297653915,,600
+248,blhbun1,Black-headed Bunting,Emberiza melanocephala,L1772531,Long Valley 塱原,2026-02-02 10:45:00,1.0,22.5088303,114.113338,True,False,False,S297636820,,1365
+249,buhshr1,Bull-headed Shrike,Lanius bucephalus,L4921483,Pak Sha O 白沙澳,2026-02-02 10:36:00,1.0,22.4486741,114.3193316,True,False,False,S297644397,,600
+250,bncrai1,Brown-cheeked Rail,Rallus indicus,L1772531,Long Valley 塱原,2026-02-01 16:38:00,1.0,22.5088303,114.113338,True,False,False,S297412880,,1365
+251,fotswi,Pacific Swift,Apus pacificus,L57902228,"2 Ficus Path, New Territories, HK (22.489, 114.047)",2026-02-01 14:44:00,1.0,22.4892508,114.0468973,True,False,True,S297384893,,600
+252,houcro1,House Crow,Corvus splendens,L57902228,"2 Ficus Path, New Territories, HK (22.489, 114.047)",2026-02-01 14:44:00,1.0,22.4892508,114.0468973,True,False,True,S297384893,N,600
+253,yelbit,Yellow Bittern,Botaurus sinensis,L1772531,Long Valley 塱原,2026-02-01 11:50:00,1.0,22.5088303,114.113338,True,False,False,S297367868,,1365
+254,bkskit1,Black-winged Kite,Elanus caeruleus,L4150163,Tam Kon Chau Road--Fishpond Area 担竿洲路--魚塘區,2026-02-01 10:00:00,2.0,22.4950328,114.0563035,True,False,False,S297819892,,600
+255,banswa,Bank Swallow,Riparia riparia,L4150163,Tam Kon Chau Road--Fishpond Area 担竿洲路--魚塘區,2026-02-01 10:00:00,2.0,22.4950328,114.0563035,True,False,False,S297819892,,600
+256,chcwar2,Chestnut-crowned Warbler,Phylloscopus castaniceps,L45207123,Kowloon Hills Fitness Trails,2026-02-01 08:00:00,1.0,22.355324,114.1623959,True,False,True,S297459558,,600
+257,grebit1,Eurasian Bittern,Botaurus stellaris,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-02-01 07:44:00,1.0,22.4941803,114.0365517,True,False,False,S297359591,,1610
+258,slbrai1,Slaty-breasted Rail,Lewinia striata,L57006952,"15號 啓樂街, 九龍, HK (22.326, 114.211)",2026-01-31 17:44:00,1.0,22.3261199,114.2113554,True,False,True,S297155120,,600
+259,eyethr,Eyebrowed Thrush,Turdus obscurus,L10338111,Ngong Ping 昂坪,2026-01-31 09:00:00,1.0,22.2553666,113.9051304,True,False,False,S297126560,,600
+260,whswar1,White-spectacled Warbler,Phylloscopus intermedius,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-01-31 08:00:00,1.0,22.4259749,114.1810155,True,False,False,S297204779,,630
+261,tribun1,Tristram's Bunting,Emberiza tristrami,L3686391,Tai Lam Country Park 大欖郊野公園,2026-01-31 07:46:00,1.0,22.3992845,114.0916014,True,False,False,S297126575,,600
+262,grewar3,Greenish Warbler,Phylloscopus trochiloides,L2740358,King's Park Recreation Ground 京士柏公園,2026-01-28 16:20:00,1.0,22.3125294,114.1733256,True,True,False,S296659815,,600
+263,gbhgul2,Pallas's Gull,Ichthyaetus ichthyaetus,L13970809,Mai Po Nature Reserve--Northern Mudflat Hide 米埔自然護理區--泥灘北屋,2026-01-28 13:26:00,2.0,22.4991307,114.0275089,True,False,False,S296647734,,600
+264,radwar1,Radde's Warbler,Phylloscopus schwarzi,L1012793,Mai Po Nature Reserve 米埔自然護理區,2026-01-28 09:17:00,2.0,22.4941803,114.0365517,True,False,False,S296670209,,1610
+265,scamac1,Scarlet Macaw,Ara macao,L3639949,Pui O 貝澳,2026-01-28 08:00:00,1.0,22.2404203,113.9769423,True,True,False,S296641434,X,600
+266,ashmar1,Asian House-Martin,Delichon dasypus,L3639949,Pui O 貝澳,2026-01-27 08:50:00,1.0,22.2404203,113.9769423,True,False,False,S296496184,,600
+267,orihob2,Oriental Honey-buzzard,Pernis ptilorhynchus,L54981138,雷公田村,2026-01-27 07:38:00,1.0,22.42713,114.108254,True,False,True,S296502326,,600
+268,phtjac1,Pheasant-tailed Jacana,Hydrophasianus chirurgus,L21778972,Lok Ma Chau,2026-01-26 15:13:00,3.0,22.5125014,114.066025,True,True,True,S296358118,,600
+269,emlwar1,Emei Leaf Warbler,Phylloscopus emeiensis,L1987536,Tai Po Kau Nature Reserve 大埔滘自然護理區,2026-01-26 09:30:00,1.0,22.4259749,114.1810155,True,True,False,S296367338,,630
+270,eargre,Eared Grebe,Podiceps nigricollis,L7394891,Tai Sang Wai 大生圍,2026-01-26 08:14:00,1.0,22.4708045,114.0427852,True,True,False,S296338083,,600
+271,wtrthr1,White-throated Rock-Thrush,Monticola gularis,L10338111,Ngong Ping 昂坪,2026-01-26 07:20:00,1.0,22.2553666,113.9051304,True,False,False,S296334555,,600
