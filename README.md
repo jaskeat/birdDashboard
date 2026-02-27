@@ -2,6 +2,8 @@
 
 This project is a data-driven dashboard for visualizing bird sightings in Hong Kong, built with Streamlit and Python.
 
+![Dashboard screenshot](./data/image.png)
+
 ## Features
 
 - Fetches real-time bird observation data from the eBird API
