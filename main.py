@@ -33,7 +33,7 @@ def _(mo):
 @app.cell
 def _(apiKey, requests):
     regionCode = "HK"
-    url = f"https://api.ebird.org/v2/data/obs/{regionCode}/recent"
+    url = f"https://api.ebird.org/v2/data/obs/{regionCode}/recent?detail=full"
 
     r = requests.get(url,headers={"X-eBirdApiToken":apiKey})
     print(r.status_code)
@@ -137,6 +137,60 @@ def _(hotspot_df):
 @app.cell
 def _(hotspot_df):
     hotspot_df.to_csv('./data/hotspot.csv')
+    return
+
+
+@app.cell
+def _(hotspot_df):
+    hotspot_df.isna().sum()
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""### Notable Sightings""")
+    return
+
+
+@app.cell
+def _(apiKey, requests):
+    def getData():
+        regionCode = "HK"
+        url = f"https://api.ebird.org/v2/data/obs/{regionCode}/recent/notable?detail=full"
+    
+        r = requests.get(url,headers={"X-eBirdApiToken":apiKey})
+        return r
+
+    notableR = getData()
+    notableR.status_code
+    return (notableR,)
+
+
+@app.cell
+def _(notableR):
+    notableR.json()
+    return
+
+
+@app.cell
+def _(notableR, pd):
+    notabledf = pd.DataFrame(notableR.json())
+    notabledf = notabledf.drop_duplicates(subset="obsDt",keep="first")
+    notabledf = notabledf[notabledf["obsReviewed"]==True]
+    notabledf["obsDt"] = pd.to_datetime(notabledf["obsDt"])
+    notabledf 
+    return (notabledf,)
+
+
+@app.cell
+def _(notabledf):
+    notabledf.info()
+    return
+
+
+@app.cell
+def _(notabledf):
+    notabledf.to_csv("./data/notable.csv")
     return
 
 
